@@ -1,6 +1,8 @@
+# Language Classifier
+
 @author: Anurag Kacham
 
-Enter in the following format:
+### Enter in the following format:
 
 For training:
 
